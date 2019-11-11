@@ -5,7 +5,7 @@
   <groupId>Cirebytes</groupId>
   <artifactId>CarWorkshopMSProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>CarWorkshopMSProject</name>
   <url>http://maven.apache.org</url>
@@ -22,4 +22,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <modules>
+  	<module>it1</module>
+  </modules>
 </project>
