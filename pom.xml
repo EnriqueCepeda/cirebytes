@@ -24,5 +24,7 @@
   </dependencies>
   <modules>
   	<module>it1</module>
+  	
+  	<module>it2</module>
   </modules>
 </project>
