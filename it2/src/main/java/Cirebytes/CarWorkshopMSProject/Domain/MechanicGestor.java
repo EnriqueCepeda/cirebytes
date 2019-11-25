@@ -1,5 +1,7 @@
 package Cirebytes.CarWorkshopMSProject.Domain;
 
+import java.util.List;
+
 public class MechanicGestor {
 
 	public boolean select() {
