@@ -24,8 +24,8 @@
   </dependencies>
   <modules>
   	<module>it1</module>
-  	
   	<module>it2</module>
   	<module>it3</module>
+  	<module>it4</module>
   </modules>
 </project>
