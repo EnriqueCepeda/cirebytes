@@ -6,4 +6,5 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>it4</artifactId>
+  <version>4.0.0-ALPHA</version>
 </project>
